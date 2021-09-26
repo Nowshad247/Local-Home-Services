@@ -10,7 +10,7 @@ const Header = () => {
                 </div>
                 <div>
                     <h1>Local Home Services </h1>
-                    <p>Local Home Service</p>
+                    <p>FIND House construction and Home garden Company In your State </p>
                 </div>
             </div>
             <div className="title">
