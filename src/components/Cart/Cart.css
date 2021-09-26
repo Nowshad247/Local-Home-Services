@@ -1,0 +1,32 @@
+.cart{
+    margin: 5px;
+   
+    text-align: center;
+    padding: 10px;
+    
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.cart img{
+    max-width: 100px;
+    max-height: 100px;
+    margin: 20px;
+}
+.social{
+    display: flex;
+    margin: 20px;
+    
+}
+.social a{
+    text-decoration: none;
+    color: black;
+}
+.social i{
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 20px;
+}

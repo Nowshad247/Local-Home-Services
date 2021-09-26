@@ -1,0 +1,14 @@
+.body{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    width: 1140px;
+    margin: 0 auto;
+}
+.carts{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  
+}
+.summary{
+    margin: 20px;
+}

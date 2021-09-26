@@ -1,0 +1,15 @@
+.header{
+    background-color: antiquewhite;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    height: 100px;
+}
+.title{
+    text-align: center;
+    padding: 20px;
+}
